@@ -14,14 +14,6 @@ This project focuses on **Automatic Text Simplification** using **T5 (Text-to-Te
 
 ## 📂 Project Structure
 
-```
-├── Automatic_Text_Simplification-with_T5.ipynb   # Jupyter Notebook for T5 model
-├── Automatic_Text_Simplification_with_BART.ipynb # Jupyter Notebook for BART model
-├── m6750-bhattacharjee paper.pdf                 # Research paper detailing the methodology
-├── dataset/                                      # Contains processed dataset (optional)
-└── README.md                                     # Project documentation
-```
-
 ## 🚀 Installation & Setup
 
 1. **Clone the Repository**
