@@ -1,8 +1,8 @@
-# README for Automatic Text Simplification
+# README for Text Simplification Using T5 and BART Models
 
 ## 📌 Project Overview
 
-This project focuses on **Automatic Text Simplification** using **T5 (Text-to-Text Transfer Transformer)** and **BART (Bidirectional and Auto-Regressive Transformers)** models. The goal is to simplify complex text while maintaining its original meaning, making information more accessible for individuals with limited reading proficiency, including non-native speakers and those with cognitive challenges.
+This project focuses on **Text Simplification Using T5 and BART Models** using **T5 (Text-to-Text Transfer Transformer)** and **BART (Bidirectional and Auto-Regressive Transformers)** models. The goal is to simplify complex text while maintaining its original meaning, making information more accessible for individuals with limited reading proficiency, including non-native speakers and those with cognitive challenges.
 
 ## 🏆 Key Features
 
