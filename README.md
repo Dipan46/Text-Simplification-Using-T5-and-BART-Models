@@ -19,8 +19,8 @@ This project focuses on **Text Simplification Using T5 and BART Models** using *
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-repo/automatic-text-simplification.git
-    cd automatic-text-simplification
+    git clone https://github.com/your-repo/Text-Simplification-Using-T5-and-BART-Models.git
+    cd Text-Simplification-Using-T5-and-BART-Models
     ```
 
 2. **Create a Virtual Environment (Optional)**
@@ -94,11 +94,11 @@ This project focuses on **Text Simplification Using T5 and BART Models** using *
 If you use this project for research, please cite:
 
 ```
-@article{bhattacharjee2024textsimplification,
+@article{bhattacharjee2025textsimplification,
   author    = {Soma Das, Dipan Basak, Abir Bhattacharjee},
   title     = {Text Simplification Using T5 and BART Models},
   journal   = {Institute of Engineering and Management},
-  year      = {2024}
+  year      = {2025}
 }
 ```
 
