@@ -12,8 +12,6 @@ This project focuses on **Text Simplification Using T5 and BART Models** using *
 -   Implements **data preprocessing, augmentation, and fine-tuning** for optimal results.
 -   Supports **text simplification for academic, technical, and general content**.
 
-## 📂 Project Structure
-
 ## 🚀 Installation & Setup
 
 1. **Clone the Repository**
