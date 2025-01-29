@@ -1,4 +1,4 @@
-Text Simplification Using T5 and BART Models
+# Text Simplification Using T5 and BART Models
 
 ## 📌 Project Overview
 
