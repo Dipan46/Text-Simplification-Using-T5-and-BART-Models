@@ -70,6 +70,10 @@ This project focuses on **Text Simplification Using T5 and BART Models** using *
 | **T5**   | 37.8 | 48.2    | 23.5    | 45.1    | 39.4 |
 | **BART** | 41.5 | 52.7    | 27.8    | 49.3    | 38.7 |
 
+
+**Output**
+![Alt Text](output.png)
+
 📌 **Findings:**
 
 -   **BART** outperforms T5 in **BLEU and ROUGE scores**, meaning it retains better semantic fidelity.
