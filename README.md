@@ -1,8 +1,8 @@
-# README for Automatic Text Simplification
+# Text Simplification Using T5 and BART Models
 
 ## 📌 Project Overview
 
-This project focuses on **Automatic Text Simplification** using **T5 (Text-to-Text Transfer Transformer)** and **BART (Bidirectional and Auto-Regressive Transformers)** models. The goal is to simplify complex text while maintaining its original meaning, making information more accessible for individuals with limited reading proficiency, including non-native speakers and those with cognitive challenges.
+This project focuses on **Text Simplification Using T5 and BART Models** using **T5 (Text-to-Text Transfer Transformer)** and **BART (Bidirectional and Auto-Regressive Transformers)** models. The goal is to simplify complex text while maintaining its original meaning, making information more accessible for individuals with limited reading proficiency, including non-native speakers and those with cognitive challenges.
 
 ## 🏆 Key Features
 
@@ -12,23 +12,13 @@ This project focuses on **Automatic Text Simplification** using **T5 (Text-to-Te
 -   Implements **data preprocessing, augmentation, and fine-tuning** for optimal results.
 -   Supports **text simplification for academic, technical, and general content**.
 
-## 📂 Project Structure
-
-```
-├── Automatic_Text_Simplification-with_T5.ipynb   # Jupyter Notebook for T5 model
-├── Automatic_Text_Simplification_with_BART.ipynb # Jupyter Notebook for BART model
-├── m6750-bhattacharjee paper.pdf                 # Research paper detailing the methodology
-├── dataset/                                      # Contains processed dataset (optional)
-└── README.md                                     # Project documentation
-```
-
 ## 🚀 Installation & Setup
 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-repo/automatic-text-simplification.git
-    cd automatic-text-simplification
+    git clone https://github.com/your-repo/Text-Simplification-Using-T5-and-BART-Models.git
+    cd Text-Simplification-Using-T5-and-BART-Models
     ```
 
 2. **Create a Virtual Environment (Optional)**
@@ -102,11 +92,11 @@ This project focuses on **Automatic Text Simplification** using **T5 (Text-to-Te
 If you use this project for research, please cite:
 
 ```
-@article{bhattacharjee2024textsimplification,
+@article{bhattacharjee2025textsimplification,
   author    = {Soma Das, Dipan Basak, Abir Bhattacharjee},
   title     = {Text Simplification Using T5 and BART Models},
   journal   = {Institute of Engineering and Management},
-  year      = {2024}
+  year      = {2025}
 }
 ```
 
