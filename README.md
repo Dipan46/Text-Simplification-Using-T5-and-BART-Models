@@ -105,23 +105,3 @@ If you use this project for research, please cite:
   year      = {2025}
 }
 ```
-
----
-
-## 💡 Contributing
-
-Feel free to contribute by:
-
--   Improving model performance.
--   Enhancing the dataset.
--   Adding more evaluation metrics.
-
-## 📬 Contact
-
-For any inquiries or collaboration opportunities, please email:
-
--   **soma.das@iem.edu.in**
--   **dipaneducation46@gmail.com**
--   **abirbhattacharjee2018@gmail.com**
-
-Happy Coding! 🚀
