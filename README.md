@@ -71,8 +71,10 @@ This project focuses on **Text Simplification Using T5 and BART Models** using *
 | **BART** | 41.5 | 52.7    | 27.8    | 49.3    | 38.7 |
 
 
-**Output**
-![Alt Text](output.png)
+### **Output**
+
+![output](output.png)
+
 
 📌 **Findings:**
 
