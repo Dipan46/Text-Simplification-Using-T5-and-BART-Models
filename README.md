@@ -17,7 +17,7 @@ This project focuses on **Text Simplification Using T5 and BART Models** using *
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-repo/Text-Simplification-Using-T5-and-BART-Models.git
+    git clone https://github.com/Dipan46/Text-Simplification-Using-T5-and-BART-Models.git
     cd Text-Simplification-Using-T5-and-BART-Models
     ```
 
